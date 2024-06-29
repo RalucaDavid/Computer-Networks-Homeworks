@@ -7,9 +7,9 @@ The homeworks from the Computer Networks subject are the following:
     <strong>Homework 2:</strong> Token Ring
   </li>
   <li>
-    <strong>Homework 3:</strong> Sliding Window
+    <strong>Homework 3:</strong> Sliding Window (Grade 10 variants with execution threads)
   </li>
   <li>
-    <strong>Homework 4:</strong> Transposition Cipher
+    <strong>Homework 4:</strong> Transposition Cipher (Variant with Client and Server using CROW and CPR libraries)
   </li>
 </ul>
